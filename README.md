@@ -1,5 +1,6 @@
 # Java-Opencv
-capture picture and process image detect
+### Using OpenCV, 
+### find the height and width by detecting an object on an image taken after taking it with an IP camera
 
 # Result 1
 <p align="center">
